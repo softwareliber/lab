@@ -1,0 +1,33 @@
+html, body {background-color: #fff; font-family: Tahoma , Geneva, sans-serif; font-size: 12px; color: #033649}
+a {text-decoration: underline; color: #031634;}
+a:visited {text-decoration: underline; color: #036564;}
+a:hover {text-decoration: none; background-color: #036564; color: #E8DDCB;}
+
+h2 {font-size: 30px;}
+
+#continut {width: 700px; margin: 50px auto;}
+#cap {height: 115px; background: url("/img/lab.png") no-repeat top left;}
+#cap h1 {margin-left:150px; padding-top: 7px;}
+#cap h1 a {text-decoration: none; color: #033649;}
+#cap h1 a:visited {color: #036564;}
+#cap h1 a:hover {text-decoration: none; background-color: #036564; color: #E8DDCB;}
+#cap h3 {margin: -5px 0 0 215px;}
+
+#gat {border: 1px solid #CDB380;}
+#gat ul {font-size: 12px; font-weight: bolder;}
+#gat ul li {display: inline; padding: 5px 10px;}
+
+#corp {padding: 20px;}
+#corp h1 {font-size: 18px;}
+#corp p img, #corp p a img {background-color: #fff; padding: 2px; border: 5px solid #CDB380;}
+#corp p a:hover img {background-color: #fff; padding: 2px; border: 5px solid #036564;}
+#corp .mesaj {text-align: center;}
+#corp .mesaj img {display: block; margin: auto; border: none;}
+#corp form {width: 400px; margin: 0 auto;}
+#corp form p label {display: block; width: 150px; float: left;}
+#corp form p input, #corp form p textarea {padding: 2px; width: 100%;}
+#corp form p textarea {height: 200px;}
+#corp code {background-color: #000; color: #fff; padding: 5px; line-height: 20px; width: 100%; display: block;}
+
+#coada {border: 1px solid #CDB380; padding: 10px; font-size: 10px;}
+#coada p {padding: 1px;}
